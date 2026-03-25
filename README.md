@@ -14,15 +14,6 @@ I'm a software developer driven by curiosity and a constant desire to grow. I fo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vtzada&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtzada&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
-</p>
-
----
-
 ## 🔗 Connect with me
 
 <p align="left">

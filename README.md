@@ -20,7 +20,4 @@ I'm a software developer driven by curiosity and a constant desire to grow. I fo
   <a href="https://www.linkedin.com/in/vitortheodoro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/vtzada" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>

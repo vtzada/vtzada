@@ -2,14 +2,22 @@
 
 `Software Engineer`
 
-I'm a software developer driven by curiosity and a constant desire to grow. I focus on writing clean, efficient, and maintainable code, with a strong foundation in backend development using Java. I enjoy solving complex problems and building reliable systems that make a real difference. Committed to continuous learning, I'm always looking for new challenges that push my technical boundaries and sharpen my skills.
+Backend Software Developer focused on Java, Spring Boot and backend architecture — building reliable, maintainable systems from design to implementation.
+
+I build backend services and REST APIs with Java and Spring Boot, working with Spring Data JPA, Spring Security, JWT and relational databases.
+I apply Clean Architecture, SOLID and Clean Code principles to keep systems maintainable and easier to evolve.
+I work with PostgreSQL, MySQL, JPA/Hibernate and Flyway for persistence, database modeling and schema migrations.
+I implement authentication and authorization using Spring Security, JWT, RBAC and object-level access control.
+I treat automated testing as part of development, using JUnit, Mockito and Testcontainers to validate business rules and integrations.
+I'm currently exploring event-driven architecture, Apache Kafka, distributed systems and AI integration with Java.
+Systems Analysis and Development — Unisinos
 
 ---
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,mysql" />
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,typescript,react,tailwind,postgresql,mysql,maven,gradle,docker,git,github,postman" />
 </p>
 
 ---
